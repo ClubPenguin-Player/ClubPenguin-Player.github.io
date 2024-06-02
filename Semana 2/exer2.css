@@ -1,0 +1,11 @@
+#contenedor{
+    background-color: lightcyan;
+    width: 960px;
+    height: 900px;
+}
+
+#cabecera{
+    width: 960px;
+    height: 260px;
+    background-color: purple;
+}

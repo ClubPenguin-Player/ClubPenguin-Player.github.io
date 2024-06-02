@@ -1,0 +1,41 @@
+#contenedor{
+    width: 1000px;
+    height: 740px;
+    border: black;
+    background-color: darkblue;
+    padding: 20px;
+    margin: 0px auto;
+}
+
+#cabecera{
+    height: 90px;
+    background-color: lightgreen;
+}
+
+#banner{
+    height: 250px;
+    background-color: lightgrey;
+}
+
+#cuerpomaster{
+    display: flex;   
+}
+
+#cuerpo1{
+    background-color: red;
+    width: 500px;
+    height: 340px;
+}
+
+#cuerpo2{
+    background-color: lightcoral;
+    width: 500px;
+    height: 340px;
+}
+
+
+
+#piepagina{
+    height: 60px;
+    background-color: lightseagreen;
+}
