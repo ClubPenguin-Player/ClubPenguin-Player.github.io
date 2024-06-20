@@ -1,0 +1,11 @@
+#main{
+    background-color: lightgoldenrodyellow;
+    width: 900px;
+    height: 900px;
+    margin: 0px auto;
+    border-width: 10px;
+    border-color: black;
+}
+h1, h2{
+    color: red;
+}
